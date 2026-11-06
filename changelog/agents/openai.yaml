@@ -1,0 +1,4 @@
+interface:
+  display_name: "Changelog"
+  short_description: "Generate version changelogs from Git branches"
+  default_prompt: "Use $changelog to generate the changelog for this version or branch and update its index."
