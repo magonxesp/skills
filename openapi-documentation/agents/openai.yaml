@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: OpenAPI Documentation
+  short_description: Generate OpenAPI 3.0 docs from code and tests
+  default_prompt: Document the project's REST routes in OpenAPI 3.0 (api.yaml), using controller/route code and tests to infer request and response details.
